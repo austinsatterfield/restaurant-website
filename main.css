@@ -1,0 +1,43 @@
+html { 
+	background-color: #92a8d1;
+}
+
+.logo {
+	margin-left: 25%;
+	width: 500px;
+	margin-bottom: 4%;
+}
+.info {
+	font-family: 'Libre Franklin', sans-serif;
+	padding-left: : 34%;
+	margin-top: 6%;
+	text-align: center;
+}
+.menu {
+	font-style: ;
+	margin-left: 25%;
+	width: 50%;
+	background-color: white;
+}
+
+.menu table {
+	width: 100%;
+}
+
+.menu table td {
+	padding: 5px;
+	border: 0px solid red;
+}
+
+.menu table tr:nth-of-type(even) {
+	background-color: #f0f0f0;
+}
+
+.links {
+	background-color: lightblue;
+	font-size:20px;
+	font-style: ;
+	padding-left: : 34%;
+	margin-top: 6%;
+	text-align: center;
+}
